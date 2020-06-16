@@ -1,0 +1,31 @@
+/* Colour scheme whomst */
+.container{
+    background-color: antiquewhite;
+    width: fit-content;
+    height: min-content;
+    padding: 25px 10px 30px 20px;
+    border-style: double;
+    border-color: black;
+    margin: 0;
+    padding: 0;
+
+}
+
+.row1{
+    background-color: dimgrey;
+    border-style: solid;
+    border-color: black;
+
+}
+
+.footer{
+
+    margin: inherit;
+    width: inherit;
+    height: inherit;
+
+}
+#navbarNav{
+    display: flex;
+}
+
