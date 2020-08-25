@@ -5,3 +5,4 @@ Recreate portfolio by making the following:
 3-contact: How a user can contact you
 This is done via the use of bootstrap & Bootstrap's grid system
 Also had to make sure the site is responsive to various screen types
+https://mar009.github.io/HMWK2/
